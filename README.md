@@ -16,6 +16,14 @@ PassWall
  
 ```bash
  src-git kenzo https://github.com/Anton35533/openwrt-packages
+ 
+ 
+ 3、ddnsto选择软件包
+
+LuCI --->
+3. Applications --->
+<*> luci-app-ddnsto.................................. LuCI support for ddnsto
+<*> luci-app-linkease.................................. LuCI support for linkease
 
 
 - openwrt 固件编译自定义主题与软件
