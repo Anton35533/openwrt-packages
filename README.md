@@ -1,6 +1,7 @@
 
 
-PassWall[xiaorouji新库地址](https://github.com/xiaorouji/openwrt-passwall.git) 已经自带依赖了
+PassWall
+[xiaorouji新库地址](https://github.com/xiaorouji/openwrt-passwall.git) 已经自带依赖了
  
 
 
@@ -11,7 +12,7 @@ PassWall[xiaorouji新库地址](https://github.com/xiaorouji/openwrt-passwall.gi
  git clone https://github.com/Anton35533/openwrt-packages.git
 ```
 
- 2、 或者添加下面代码到 openwrt 或lede源码根目录feeds.conf.default文件
+ 2、 或者添加下面代码到lede源码根目录feeds.conf.default文件
  
 ```bash
  src-git kenzo https://github.com/Anton35533/openwrt-packages
